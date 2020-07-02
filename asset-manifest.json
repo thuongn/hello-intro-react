@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hello-intro-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hello-intro-react/static/js/main.892b6504.chunk.js",
+    "main.js.map": "/hello-intro-react/static/js/main.892b6504.chunk.js.map",
+    "runtime-main.js": "/hello-intro-react/static/js/runtime-main.09137284.js",
+    "runtime-main.js.map": "/hello-intro-react/static/js/runtime-main.09137284.js.map",
+    "static/js/2.9d58873f.chunk.js": "/hello-intro-react/static/js/2.9d58873f.chunk.js",
+    "static/js/2.9d58873f.chunk.js.map": "/hello-intro-react/static/js/2.9d58873f.chunk.js.map",
+    "index.html": "/hello-intro-react/index.html",
+    "precache-manifest.a40c4867ecf2fb286764cd8b75cb71fa.js": "/hello-intro-react/precache-manifest.a40c4867ecf2fb286764cd8b75cb71fa.js",
+    "service-worker.js": "/hello-intro-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hello-intro-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9d58873f.chunk.js.LICENSE.txt": "/hello-intro-react/static/js/2.9d58873f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hello-intro-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09137284.js",
+    "static/js/2.9d58873f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.892b6504.chunk.js"
+  ]
+}
